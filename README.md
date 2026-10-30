@@ -36,7 +36,7 @@ endmodule
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@ endmodule
 
 > 🔰 Beginner — Learning the foundations of low-level programming
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ### ⚡ Hardware & Embedded Systems
 
@@ -63,6 +63,69 @@ endmodule
   <img src="https://img.shields.io/badge/Relay_Modules-DC143C?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Relay Modules" />
 </p>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+### Embedded Systems &middot; IoT &middot; Hardware
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" width="80" height="80" alt="STM32"/><br/><br/>
+      <img src="https://img.shields.io/badge/STM-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" /><br/>
+      <b>STM32</b><br/>
+      <sub>ARM Cortex-M</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/espressif/E7352C" width="80" height="80" alt="ESP32"/><br/><br/>
+      <img src="https://img.shields.io/badge/Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white" /><br/>
+      <b>ESP32</b><br/>
+      <sub>WiFi &middot; BLE</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/arduino/00979D" width="80" height="80" alt="Arduino"/><br/><br/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /><br/>
+      <b>Arduino</b><br/>
+      <sub>Uno &middot; Nano</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/amd/ED1C24" width="80" height="80" alt="FPGA"/><br/><br/>
+      <img src="https://img.shields.io/badge/FPGA-5A17EE?style=flat-square&logo=xilinx&logoColor=white" /><br/>
+      <b>FPGA</b><br/>
+      <sub>Hardware Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/arm/0091BD" width="80" height="80" alt="ARM Cortex"/><br/><br/>
+      <img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white" /><br/>
+      <b>ARM Cortex</b><br/>
+      <sub>Architecture</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/mqtt/660066" width="80" height="80" alt="IoT"/><br/><br/>
+      <img src="https://img.shields.io/badge/IoT-FF6900?style=flat-square&logo=internetofthings&logoColor=white" /><br/>
+      <b>IoT Systems</b><br/>
+      <sub>Ultra-Low-Power</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/adafruit/2E8B57" width="80" height="80" alt="Sensors"/><br/><br/>
+      <img src="https://img.shields.io/badge/SENSORS-2E8B57?style=flat-square&logo=adafruit&logoColor=white" /><br/>
+      <b>Sensors & Actuators</b><br/>
+      <sub>Interfacing</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/homeassistant/DC143C" width="80" height="80" alt="Relay"/><br/><br/>
+      <img src="https://img.shields.io/badge/RELAY-DC143C?style=flat-square&logo=powerautomate&logoColor=white" /><br/>
+      <b>Relay Modules</b><br/>
+      <sub>Control Systems</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 | Technology | Status |
 |:----------:|:------:|
 | Arduino | ✅ Active |
@@ -73,7 +136,7 @@ endmodule
 | Sensors & Actuators | ✅ Active |
 | Relay Modules | ✅ Active |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ### 🔬 VLSI & Semiconductor
 
@@ -97,7 +160,7 @@ endmodule
 | Physical Design | 📚 Learning |
 | RTL-to-GDSII Flow | 📚 Learning |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 📊 GitHub Stats
 
@@ -110,7 +173,7 @@ endmodule
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🏆 GitHub Trophies
 
@@ -118,13 +181,13 @@ endmodule
   <img src="https://github-profile-trophy.vercel.app/?username=HARIHARAN-K&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARIHARAN-K&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" alt="Contribution Graph" />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🌐 Connect With Me
 
@@ -140,7 +203,7 @@ endmodule
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
